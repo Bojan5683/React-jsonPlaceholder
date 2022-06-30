@@ -1,0 +1,27 @@
+body{
+  background-color:#21605D;
+}
+
+
+.input{
+  margin: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+  color: #EAEBED;
+
+}
+
+
+.id{
+  color: #87E1C7;
+}
+
+
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #87E1C7;
+}
