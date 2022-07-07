@@ -10,9 +10,18 @@ body{
   align-items: center;
   padding: 1em;
   color: #EAEBED;
-
 }
 
+input{
+  width: 300px;
+  height: 40px;
+  border-radius: 30px;
+  background-color: #EAEBED;
+  text-align: center;
+  font-size: 18px;
+  margin-left: 45px;
+  padding-left: 10px;
+}
 
 .id{
   color: #87E1C7;
@@ -24,4 +33,11 @@ body{
   justify-content: center;
   align-items: center;
   color: #87E1C7;
+}
+
+.sort{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-right: 2em;
 }
